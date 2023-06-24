@@ -1,0 +1,29 @@
+body {background:#DDD5B5;}
+p{ 
+
+  background-color:red;
+
+  padding-top:50px; 
+
+  padding-left:250px; 
+
+  padding-right:250px; 
+
+  padding-bottom:50px; 
+
+  margin-top:80px; 
+
+  margin-left:500px; 
+
+  margin-right:1000px; 
+
+  margin-bottom:85px;
+  }
+  .video-back{ 
+position:fixed;
+top:0;   
+left:0;
+min-width:100%;
+min-height:100%;
+z-index:-2;  
+}
